@@ -1,0 +1,11 @@
+bkrad-f1\loramacfcnthandler.o: ..\USER-SRC\mac\LoRaMacFCntHandler.c
+bkrad-f1\loramacfcnthandler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+bkrad-f1\loramacfcnthandler.o: ..\USER-SRC\boards\utilities.h
+bkrad-f1\loramacfcnthandler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bkrad-f1\loramacfcnthandler.o: ..\USER-SRC\mac\LoRaMacFCntHandler.h
+bkrad-f1\loramacfcnthandler.o: ..\USER-SRC\mac\LoRaMacTypes.h
+bkrad-f1\loramacfcnthandler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+bkrad-f1\loramacfcnthandler.o: ..\USER-SRC\system\timer.h
+bkrad-f1\loramacfcnthandler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+bkrad-f1\loramacfcnthandler.o: ..\USER-SRC\mac\LoRaMacMessageTypes.h
+bkrad-f1\loramacfcnthandler.o: ..\USER-SRC\mac\LoRaMacHeaderTypes.h

@@ -1,0 +1,10 @@
+bkrad-f1\uart.o: ..\USER-SRC\system\uart.c
+bkrad-f1\uart.o: ..\USER-SRC\boards\uart-board.h
+bkrad-f1\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bkrad-f1\uart.o: ..\USER-SRC\system\uart.h
+bkrad-f1\uart.o: ..\USER-SRC\system\fifo.h
+bkrad-f1\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+bkrad-f1\uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+bkrad-f1\uart.o: ..\USER-SRC\system\gpio.h
+bkrad-f1\uart.o: ..\USER-SRC\boards\pinName-board.h
+bkrad-f1\uart.o: ..\USER-SRC\boards\pinName-ioe.h

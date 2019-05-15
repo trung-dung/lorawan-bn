@@ -1,0 +1,15 @@
+bkrad-f1\loramaccommands.o: ..\USER-SRC\mac\LoRaMacCommands.c
+bkrad-f1\loramaccommands.o: ..\USER-SRC\boards\utilities.h
+bkrad-f1\loramaccommands.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\mac\LoRaMacCommands.h
+bkrad-f1\loramaccommands.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\mac\LoRaMacTypes.h
+bkrad-f1\loramaccommands.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\system\timer.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\mac\LoRaMacConfirmQueue.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\mac\LoRaMac.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\system\systime.h
+bkrad-f1\loramaccommands.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\radio\radio.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\mac\region/Region.h
+bkrad-f1\loramaccommands.o: ..\USER-SRC\mac\LoRaMac.h

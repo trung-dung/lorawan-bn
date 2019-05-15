@@ -1,0 +1,10 @@
+bkrad-f1\mdm_socket_hal.o: ..\USER-SRC\peripherals\gsm\mdm_socket_hal.cpp
+bkrad-f1\mdm_socket_hal.o: ..\USER-SRC\peripherals\gsm\mdm_socket_hal.h
+bkrad-f1\mdm_socket_hal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bkrad-f1\mdm_socket_hal.o: ..\USER-SRC\peripherals\gsm\mdm_hal.h
+bkrad-f1\mdm_socket_hal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+bkrad-f1\mdm_socket_hal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+bkrad-f1\mdm_socket_hal.o: ..\USER-SRC\peripherals\gsm\pipe_hal.h
+bkrad-f1\mdm_socket_hal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+bkrad-f1\mdm_socket_hal.o: ..\USER-SRC\peripherals\gsm\serial_pipe_hal.h
+bkrad-f1\mdm_socket_hal.o: ..\USER-SRC\peripherals\gsm\mdm_enums_hal.h

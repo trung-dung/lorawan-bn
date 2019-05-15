@@ -1,0 +1,16 @@
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\boards\NucleoL476\sx1276mb1mas-board.c
+bkrad-f1\sx1276mb1mas-board.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\boards\utilities.h
+bkrad-f1\sx1276mb1mas-board.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\boards\NucleoL476\board-config.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\system\delay.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\radio\radio.h
+bkrad-f1\sx1276mb1mas-board.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\boards\sx1276-board.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\radio\sx1276.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\system\gpio.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\boards\pinName-board.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\boards\pinName-ioe.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\system\spi.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\radio\sx1276Regs-Fsk.h
+bkrad-f1\sx1276mb1mas-board.o: ..\USER-SRC\radio\sx1276Regs-LoRa.h

@@ -1,0 +1,9 @@
+bkrad-f1\i2c.o: ..\USER-SRC\system\i2c.c
+bkrad-f1\i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+bkrad-f1\i2c.o: ..\USER-SRC\boards\utilities.h
+bkrad-f1\i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bkrad-f1\i2c.o: ..\USER-SRC\boards\i2c-board.h
+bkrad-f1\i2c.o: ..\USER-SRC\system\i2c.h
+bkrad-f1\i2c.o: ..\USER-SRC\system\gpio.h
+bkrad-f1\i2c.o: ..\USER-SRC\boards\pinName-board.h
+bkrad-f1\i2c.o: ..\USER-SRC\boards\pinName-ioe.h

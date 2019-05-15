@@ -1,0 +1,15 @@
+bkrad-f1\soft-se.o: ..\USER-SRC\peripherals\soft-se\soft-se.c
+bkrad-f1\soft-se.o: ..\USER-SRC\mac\secure-element.h
+bkrad-f1\soft-se.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+bkrad-f1\soft-se.o: ..\USER-SRC\mac\LoRaMacCrypto.h
+bkrad-f1\soft-se.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+bkrad-f1\soft-se.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+bkrad-f1\soft-se.o: ..\USER-SRC\boards\utilities.h
+bkrad-f1\soft-se.o: ..\USER-SRC\mac\LoRaMacTypes.h
+bkrad-f1\soft-se.o: ..\USER-SRC\system\timer.h
+bkrad-f1\soft-se.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+bkrad-f1\soft-se.o: ..\USER-SRC\mac\LoRaMacMessageTypes.h
+bkrad-f1\soft-se.o: ..\USER-SRC\mac\LoRaMacHeaderTypes.h
+bkrad-f1\soft-se.o: ..\USER-SRC\peripherals\soft-se\aes.h
+bkrad-f1\soft-se.o: ..\USER-SRC\peripherals\soft-se\cmac.h
+bkrad-f1\soft-se.o: ..\USER-SRC\radio\radio.h
